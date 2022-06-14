@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Astrow</h1>
-<h3 align="center">A passionate frontend developer from France !</h3>
+<h1 align="center"><strong>Hi 👋, I'm Astrow</strong></h1>
+<h3 align="center"><strong>A passionate frontend developer from France !</strong></h3>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Astrow25&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-<h2 align="center">🔥My Skills🔥</h2>
+<h2 align="center"><strong>🔥My Skills🔥</strong></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=ableton,arduino,autocad,aws,azure,cs,codepen,html,css,js,discord,django,eclipse,electron,figma,flutter,github,graphql,heroku,idea,instagram,php,laravel,latex,linux,md,materialui,mysql,nodejs,nuxtjs,powershell,py,react,stackoverflow,svg,tailwind,twitter,vim,visualstudio,vscode,vue&theme=light)](https://skillicons.dev)
 
