@@ -1,5 +1,5 @@
 <br>
-<h1 align="center"> Hi 👋, I'm Astrow </h1>
+<h1 align="center"> Hi 👋, I'm Yann Renard </h1>
 <h3 align="center"> A passionate frontend developer from France ! </h3>
 
 <div>
