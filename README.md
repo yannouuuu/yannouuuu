@@ -1,15 +1,40 @@
-<h1 align="center"><strong>Hi 👋, I'm Astrow</strong></h1>
-<h3 align="center"><strong>A passionate frontend developer from France !</strong></h3>
+<br>
+<h1 align="center"> Hi 👋, I'm Astrow </h1>
+<h3 align="center"> A passionate frontend developer from France ! </h3>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Astrow25&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+<div>
+  <div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Astrow25&data=followers,repositories,stars,commits" alt="astrow25"/>
+</div>
+<br>
+  
 
-<h2 align="center"><strong>🔥My Skills🔥</strong></h2>
+<h2 align="center">🔥My Skills🔥</h2>
+  <p align = "center">
+       <a href=https://github.com/Astrow25/">
+          <img src="https://skillicons.dev/icons?i=arduino,cs,codepen,html,css,js,discord,django,eclipse,electron,figma,github,graphql,heroku,idea,latex,linux,md,materialui,nodejs,powershell,py,tailwind,visualstudio,vscode,vue&theme=dark&perline=13"alt="My Skills"/> 
+      </a>
+  </p>
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,arduino,azure,cs,codepen,html,css,js,discord,django,eclipse,electron,figma,flutter,github,graphql,heroku,idea,latex,linux,md,materialui,nodejs,powershell,py,svg,tailwind,visualstudio,vscode,vue&theme=dark)](https://skillicons.dev)
+<h2 align = "center"> 📉 GitHub Stats 📉 </h2>
+  <div> 
+    <p align = "center">
+      <a href="https://github.com/Astrow25/">
+        <img alt="Astrow25's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Astrow25&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
+      <a href="https://github.com/Astrow25/">
+        <img alt="Astrow25's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Astrow25&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+      <a href="https://github.com/Astrow25/">
+        <img alt="Astrow25's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Astrow25&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5"/></a>
+    </p>
+  </div>
+  
+<br>
 
-![Astrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astrow25&show_icons=true&theme=synthwave&hide_border=0)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astrow25&theme=synthwave&hide_border=0)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astrow25&label=Profile%20views&color=0e75b6&style=flat" alt="astrow25" /> </p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/910244631281815634)](https://discord.com/users/910244631281815634)
+<div>
+  <h2 align="center"> 👀 View counter 👀 </h2>
+  <div align="center">
+  <a href=https://github.com/Astrow25/">
+  <img src="https://moe-counter.glitch.me/get/@astrow25?theme=moebooru-h" alt="astrow25"/>
+</div>
+<br>
