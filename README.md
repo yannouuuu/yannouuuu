@@ -1,17 +1,27 @@
 <br>
+<p align="center">
+  <a href="https://github.com/Astrow25/"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+</p>
 <h1 align="center"> Hi 👋, I'm Yann Renard </h1>
 <h3 align="center"> A passionate frontend developer from France ! </h3>
+
+<p align="center">
+  <a href="https://astrow25.github.io/Portolio/">Official Website</a> |
+  <a href="https://www.instagram.com/yannou.rnd/">Instagram </a> |
+  <a href="https://twitter.com/____astrow____">𝕏</a> |
+  <a href="https://www.linkedin.com/in/yann-renard-91279a283/">LinkedIn</a> |
+  <a href="https://www.behance.net/yannrenard">Behance</a>
+</p>
 
 <div>
   <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Astrow25&data=followers,repositories,stars,commits" alt="astrow25"/>
 </div>
 <br>
-  
 
 <h2 align="center">🔥My Skills🔥</h2>
   <p align = "center">
-       <a href=https://github.com/Astrow25/">
+       <a href="https://github.com/Astrow25/">
           <img src="https://skillicons.dev/icons?i=arduino,cs,codepen,html,css,js,discord,django,eclipse,electron,figma,github,graphql,heroku,idea,latex,linux,md,materialui,nodejs,powershell,py,tailwind,visualstudio,vscode,vue&theme=dark&perline=13"alt="My Skills"/> 
       </a>
   </p>
@@ -34,7 +44,7 @@
 <div>
   <h2 align="center"> 👀 View counter 👀 </h2>
   <div align="center">
-  <a href=https://github.com/Astrow25/">
+  <a href="https://github.com/Astrow25/">
   <img src="https://moe-counter.glitch.me/get/@astrow25?theme=moebooru-h" alt="astrow25"/>
 </div>
 <br>
