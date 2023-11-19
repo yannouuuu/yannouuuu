@@ -9,8 +9,9 @@
   <a href="https://astrow25.github.io/Portolio/">Official Website</a> |
   <a href="https://www.instagram.com/yannou.rnd/">Instagram </a> |
   <a href="https://twitter.com/____astrow____">𝕏</a> |
-  <a href="https://www.linkedin.com/in/yann-renard-91279a283/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/yann-renard-91279a283/">LinkedIn</a> |https://anilist.co/user/Yannouuuu/
   <a href="https://www.behance.net/yannrenard">Behance</a>
+  <a href="https://anilist.co/user/Yannouuuu/">Anilist</a>
 </p>
 
 <div>
