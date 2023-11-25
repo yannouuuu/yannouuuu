@@ -23,7 +23,7 @@
 <h2 align="center">🔥My Skills🔥</h2>
   <p align = "center">
        <a href="https://github.com/A=yannouuuu/">
-          <img src="https://skillicons.dev/icons?i=arduino,cs,codepen,html,css,js,discord,django,eclipse,electron,figma,github,graphql,heroku,idea,latex,linux,md,materialui,nodejs,powershell,py,tailwind,visualstudio,vscode,vue&theme=dark&perline=13"alt="My Skills"/> 
+          <img src="https://skillicons.dev/icons?i=arduino,c,codepen,html,css,js,discord,django,eclipse,electron,figma,github,graphql,heroku,idea,latex,linux,md,materialui,nodejs,powershell,py,tailwind,visualstudio,vscode,vue&theme=dark&perline=13"alt="My Skills"/> 
       </a>
   </p>
 <br>
