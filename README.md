@@ -1,7 +1,4 @@
 <br>
-<p align="center">
-  <a href="https://github.com/yannouuuu/"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
-</p>
 <h1 align="center"> Hi 👋, I'm Yann Renard </h1>
 <h3 align="center"> A passionate frontend developer from France ! </h3>
 
