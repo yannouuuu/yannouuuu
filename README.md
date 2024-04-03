@@ -2,7 +2,7 @@
 <h3 align="center"> A passionate frontend developer from France ! </h3>
 
 <p align="center">
-  <a href="https://yannouuuu.github.io/Portolio/">Official Website</a> |
+  <a href="https://yannouuuu.github.io/Portfolio/">Official Website</a> |
   <a href="https://www.instagram.com/yannou.rnd/">Instagram </a> |
   <a href="https://twitter.com/____astrow____">𝕏</a> |
   <a href="https://www.linkedin.com/in/yann-renard-91279a283/">LinkedIn</a> |
