@@ -39,6 +39,6 @@
   <h2 align="center"> 👀 View counter 👀 </h2>
   <div align="center">
   <a href="https://github.com/yannouuuu/">
-  <img src="https://moe-counter.glitch.me/get/@astrow25?theme=moebooru-h" alt="yannouuuu"/>
+  <img src="https://moe-counter.glitch.me/get/@yannouuuu?theme=moebooru-h" alt="yannouuuu"/>
 </div>
 <br>
