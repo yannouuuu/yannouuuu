@@ -20,7 +20,7 @@
 <h2 align="center"> 🔥 What I use 🔥 </h2>
   <p align = "center">
        <a href="https://github.com/yannouuuu/">
-          <img src="https://skillicons.dev/icons?i=arduino,codepen,html,pug,css,scss,astro,git,ai,md,discord,eclipse,electron,figma,obsidian,github,webstorm,idea,latex,windows,ubuntu,linux,vercel,nodejs,powershell,py,,,,,,tailwind,postgres,vscode&theme=dark&perline=13"alt="My Skills"/> 
+          <img src="https://skillicons.dev/icons?i=codepen,html,pug,css,scss,astro,git,ai,md,discord,eclipse,electron,figma,obsidian,github,webstorm,idea,latex,windows,ubuntu,linux,vercel,nodejs,powershell,py,java,,,,,,tailwind,postgres,vscode&theme=dark&perline=13"alt="My Skills"/> 
       </a>
   </p>
 <br>
